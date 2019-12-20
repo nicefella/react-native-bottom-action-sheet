@@ -1,14 +1,14 @@
-import EntypoGlyphMap from "react-native-vector-icons/glyphmaps/Entypo.json";
-import EvilIconsGlyphMap from "react-native-vector-icons/glyphmaps/EvilIcons.json";
-import FeatherGlyphMap from "react-native-vector-icons/glyphmaps/Feather.json";
-import FontAwesomeGlyphMap from "react-native-vector-icons/glyphmaps/FontAwesome.json";
-import FoundationGlyphMap from "react-native-vector-icons/glyphmaps/Foundation.json";
-import IoniconsGlyphMap from "react-native-vector-icons/glyphmaps/Ionicons.json";
-import MaterialCommunityIconsGlyphMap from "react-native-vector-icons/glyphmaps/MaterialCommunityIcons.json";
-import MaterialIconsGlyphMap from "react-native-vector-icons/glyphmaps/MaterialIcons.json";
-import OcticonsGlyphMap from "react-native-vector-icons/glyphmaps/Octicons.json";
-import SimpleLineIconsGlyphMap from "react-native-vector-icons/glyphmaps/SimpleLineIcons.json";
-import ZocialGlyphMap from "react-native-vector-icons/glyphmaps/Zocial.json";
+import EntypoGlyphMap from "./glyphmaps/Entypo.json";
+import EvilIconsGlyphMap from "./glyphmaps/EvilIcons.json";
+import FeatherGlyphMap from "./glyphmaps/Feather.json";
+import FontAwesomeGlyphMap from "./glyphmaps/FontAwesome.json";
+import FoundationGlyphMap from "./glyphmaps/Foundation.json";
+import IoniconsGlyphMap from "./glyphmaps/Ionicons.json";
+import MaterialCommunityIconsGlyphMap from "./glyphmaps/MaterialCommunityIcons.json";
+import MaterialIconsGlyphMap from "./glyphmaps/MaterialIcons.json";
+import OcticonsGlyphMap from "./glyphmaps/Octicons.json";
+import SimpleLineIconsGlyphMap from "./glyphmaps/SimpleLineIcons.json";
+import ZocialGlyphMap from "./glyphmaps/Zocial.json";
 
 import { Platform } from "react-native";
 
